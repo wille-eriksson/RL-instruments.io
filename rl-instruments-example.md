@@ -2,7 +2,7 @@
 
 ## Target Audio
 
-
+![alt](figures/Predicted-melody/-0-timesteps.png)
 
 <audio controls>
   <source src="audio/target_audio.mp4" type="audio/wav">
