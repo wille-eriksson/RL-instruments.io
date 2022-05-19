@@ -81,6 +81,8 @@
 
 ## 20.000 timesteps
 
+#### Prediction score: 6.65
+
 #### Karplus-Strong parameters
 
 | Note | Frequency | Pluck position | Loss factor | Amplitude |
@@ -105,6 +107,8 @@
 </audio>
 
 ## 30.000 timesteps
+
+#### Prediction score: 7.25
 
 #### Karplus-Strong parameters
 
@@ -131,6 +135,8 @@
 
 ## 40.000 timesteps
 
+#### Prediction score: 7.78
+
 #### Karplus-Strong parameters
 
 | Note | Frequency | Pluck position | Loss factor | Amplitude |
@@ -155,6 +161,8 @@
 </audio>
 
 ## 50.000 timesteps
+
+#### Prediction score: 7.85
 
 #### Karplus-Strong parameters
 
@@ -181,6 +189,8 @@
 
 ## 60.000 timesteps
 
+#### Prediction score: 7.92
+
 #### Karplus-Strong parameters
 
 | Note | Frequency | Pluck position | Loss factor | Amplitude |
@@ -205,6 +215,8 @@
 </audio>
 
 ## 70.000 timesteps
+
+#### Prediction score: 8.00
 
 #### Karplus-Strong parameters
 
