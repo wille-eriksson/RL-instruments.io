@@ -23,7 +23,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/target.png)
+<img src="figures/target.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -52,7 +52,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-0-timesteps.png)
+<img src="figures/Predicted-melody-0-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -81,7 +81,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-10000-timesteps.png)
+<img src="figures/Predicted-melody-10000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -110,7 +110,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-20000-timesteps.png)
+<img src="figures/Predicted-melody-20000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -139,7 +139,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-30000-timesteps.png)
+<img src="figures/Predicted-melody-30000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -168,7 +168,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-40000-timesteps.png)
+<img src="figures/Predicted-melody-40000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -197,7 +197,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-50000-timesteps.png)
+<img src="figures/Predicted-melody-50000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -226,7 +226,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-60000-timesteps.png)
+<img src="figures/Predicted-melody-60000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
@@ -255,7 +255,7 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
 
 #### STFT
 
-![](figures/Predicted-melody-70000-timesteps.png)
+<img src="figures/Predicted-melody-70000-timesteps.png" alt="drawing" width="600"/>
 
 #### Audio
 
