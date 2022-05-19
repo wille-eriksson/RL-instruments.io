@@ -4,7 +4,9 @@ This is an example of how the parameters of the Karplus-Strong algorithm are lea
 
 The prediction score, predicted parameters, produced STFT and audio are displayed for the untrained model and every 10.000 timesteps until a prediction score of 8.0 is reached.
 
-## Target Audio
+------------------
+
+## <ins>Target Audio</ins>
 
 #### Karplus-Strong parameters
 
@@ -29,7 +31,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/target_audio.mp4" type="audio/wav">
 </audio>
 
-## Untrained prediction
+------------------
+
+## <ins>Untrained prediction</ins>
 
 #### Prediction score: 5.56
 
@@ -56,7 +60,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_0.mp4" type="audio/wav">
 </audio>
 
-## 10.000 timesteps
+------------------
+
+## <ins>10.000 timesteps</ins>
 
 #### Prediction score: 6.28
 
@@ -83,7 +89,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_10k.mp4" type="audio/wav">
 </audio>
 
-## 20.000 timesteps
+------------------
+
+## <ins>20.000 timesteps</ins>
 
 #### Prediction score: 6.65
 
@@ -110,7 +118,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_20k.mp4" type="audio/wav">
 </audio>
 
-## 30.000 timesteps
+------------------
+
+## <ins>30.000 timesteps</ins>
 
 #### Prediction score: 7.25
 
@@ -137,7 +147,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_30k.mp4" type="audio/wav">
 </audio>
 
-## 40.000 timesteps
+------------------
+
+## <ins>40.000 timesteps</ins>
 
 #### Prediction score: 7.78
 
@@ -164,7 +176,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_40k.mp4" type="audio/wav">
 </audio>
 
-## 50.000 timesteps
+------------------
+
+## <ins>50.000 timesteps</ins>
 
 #### Prediction score: 7.85
 
@@ -191,7 +205,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_50k.mp4" type="audio/wav">
 </audio>
 
-## 60.000 timesteps
+------------------
+
+## <ins>60.000 timesteps</ins>
 
 #### Prediction score: 7.92
 
@@ -218,7 +234,9 @@ The prediction score, predicted parameters, produced STFT and audio are displaye
   <source src="audio/predicted_audio_60k.mp4" type="audio/wav">
 </audio>
 
-## 70.000 timesteps
+------------------
+
+## <ins>70.000 timesteps</ins>
 
 #### Prediction score: 8.00
 
